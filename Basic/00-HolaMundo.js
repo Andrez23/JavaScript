@@ -1,0 +1,1 @@
+console.log("Hola mundo")  //Creacion de primera linea de codigo, donde nos muestra en consola el mensaje "Hola mundo"
